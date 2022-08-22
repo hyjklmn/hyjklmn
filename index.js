@@ -20,4 +20,5 @@ const readme = `\
 ---
 ⏰ Updated on ${new Date().toUTCString()}
 ---
+![](https://raw.githubusercontent.com/hyjklmn/hyjklmn/main/assets/github-contribution-grid-snake.svg)
 `
