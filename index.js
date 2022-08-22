@@ -15,10 +15,11 @@ function generateProgressBar() {
 }
 
 const readme = `\
+![](https://raw.githubusercontent.com/hyjklmn/hyjklmn/main/assets/github-contribution-grid-snake.svg)
+
 ### Hi there 👋
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
 ⏰ Updated on ${new Date().toUTCString()}
 ---
-![](https://raw.githubusercontent.com/hyjklmn/hyjklmn/main/assets/github-contribution-grid-snake.svg)
 `
